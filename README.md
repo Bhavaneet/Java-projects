@@ -1,1 +1,1 @@
-# Java-projects
+# Scientific Calculator
