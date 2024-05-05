@@ -1,2 +1,2 @@
-# Scientific Calculator
-![Screenshot 2024-04-30 212833](https://github.com/Bhavaneet/Java-projects/assets/130878982/abf7f4a5-6b65-42d8-9eb1-a16b5decd77f)
+# Scientific Calculator <br>
+![Screenshot 2024-05-05 235958](https://github.com/Bhavaneet/Java-projects/assets/130878982/b2d33683-aadc-4731-a739-90e58f4f0aa0)
